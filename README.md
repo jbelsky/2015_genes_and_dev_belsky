@@ -1,2 +1,4 @@
 # 2015_genes_and_dev_belsky
-Scripts from Belsky et. al. 2015 Genes &amp; Development paper
+Scripts from Belsky et al. 2015 Genes &amp; Development paper
+Author: Jason A Belsky
+Date: 2015-05-03
